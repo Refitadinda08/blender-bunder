@@ -83,7 +83,7 @@
         {
             "mimeType" : "image/png",
             "name" : "refittt",
-            "uri" : "refittt.png"
+            "uri" : "https://cdn.jsdelivr.net/gh/Refitadinda08/blender-bunder@e8a8a7f90e4a688333b6d393dd3568f62ac69b60/refittt.png"
         }
     ],
     "accessors" : [
